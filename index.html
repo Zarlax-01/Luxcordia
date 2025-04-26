@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les Archives du Jardin Noir</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <audio id="jardin-audio" autoplay loop>
+        <source src="assets/jardin_souffle.mp3" type="audio/mpeg">
+        Votre navigateur ne supporte pas l'audio HTML5.
+    </audio>
+    <button onclick="toggleAudio()" class="audio-toggle">Souffle</button>
+    <script>
+        const audio = document.getElementById('jardin-audio');
+        function toggleAudio() {
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        }
+    </script>
+    <div class="container">
+        <header>
+            <img src="assets/luxcordia_emblem.png" alt="Emblème de Luxcordia" class="emblem">
+            <h1>Les Archives du Jardin Noir <br><span class="latin">Archivum Horti Obscuri</span></h1>
+            <nav>
+                <a href="#">Accueil</a> |
+                <a href="#">Archives</a> |
+                <a href="#">À propos</a>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <h2>Manifeste</h2>
+                <p>
+                    Ici ne résident ni slogans, ni promesses.<br>
+                    Ici, les mots poussent comme des graines sombres dans un sol oublié par la lumière mais jamais par la vie.<br>
+                    Chaque fragment d'idée est un tesson d'espoir taillé dans la pierre du désespoir.<br><br>
+                    Vous n’êtes pas ici par hasard.<br>
+                    Si vous entendez cet appel, souvenez-vous : survivre est un réflexe, vivre est un art.<br><br>
+                    Ce jardin n'est pas un havre pour ceux qui dorment. Il est une forge pour ceux qui cherchent.<br><br>
+                    Bienvenue dans Les Archives du Jardin Noir.
+                </p>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2025 Les Archives du Jardin Noir. Tous droits réservés.</p>
+        </footer>
+    </div>
+</body>
+</html>
