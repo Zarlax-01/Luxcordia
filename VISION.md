@@ -17,7 +17,7 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 2. 🛠 Workflow de Création Semi-Automatisée
+## 2.  Workflow de Création Semi-Automatisée
 
 **Processus :**
 - GPT-4 pour les brouillons narratifs
@@ -42,7 +42,7 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 4. ⚙ Optimisation Technique & Diffusion
+## 4.  Optimisation Technique & Diffusion
 
 - **SEO décentralisé :** métadonnées riches + plateformes libres (Mirror.xyz, Radicle)
 - **Cadence régulière :** publication hebdo (ex : jeudi 18h)
