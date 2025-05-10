@@ -1,7 +1,7 @@
 
-# 🌌 VISION — Plan d’Action Optimisé pour Projet Indépendant IA et Multimédia
+#  VISION — Plan d’Action Optimisé pour Projet Indépendant IA et Multimédia
 
-## 1. 🎯 Positionnement et Niche Éditoriale
+## 1.  Positionnement et Niche Éditoriale
 
 **Proposition :**
 Développez une œuvre transmédia qui combine algorithmique narrative, réflexion philosophique et esthétique cyberpunk.
@@ -17,7 +17,7 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 2. 🛠️ Workflow de Création Semi-Automatisée
+## 2.  Workflow de Création Semi-Automatisée
 
 **Processus :**
 - GPT-4 pour les brouillons narratifs
@@ -34,7 +34,7 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 3. 🧠 Stratégies d’Engagement & Psychologie de l’Audience
+## 3.  Stratégies d’Engagement & Psychologie de l’Audience
 
 - **Narration Émotionnelle :** Dilemmes éthiques (IA, conscience, sacrifice moral)
 - **FOMO (Fear of Missing Out) :** Contenus limités (NFT, liens éphémères)
@@ -42,7 +42,7 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 4. ⚙️ Optimisation Technique & Diffusion
+## 4.  Optimisation Technique & Diffusion
 
 - **SEO décentralisé :** métadonnées riches + plateformes libres (Mirror.xyz, Radicle)
 - **Cadence régulière :** publication hebdo (ex : jeudi 18h)
@@ -51,14 +51,14 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 5. 🧩 Communauté, Gamification et Fidélisation
+## 5.  Communauté, Gamification et Fidélisation
 
 - **Gamification :** NFT, badges, énigmes intégrées au lore
 - **Espace communautaire :** Discord, salons sonores IA, forks narratifs
 
 ---
 
-## 6. 📅 Plan d’Action en Phases
+## 6.  Plan d’Action en Phases
 
 **Prototype (1–2 mois)**
 - Site statique + micro-fictions
@@ -74,7 +74,7 @@ Développez une œuvre transmédia qui combine algorithmique narrative, réflexi
 
 ---
 
-## 🧭 Résumé Stratégique
+##  Résumé Stratégique
 
 Un projet artistique hybride, à la croisée :
 - De la philosophie et du code
